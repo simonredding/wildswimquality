@@ -1,0 +1,22 @@
+{
+  "name": "WildSwimQuality",
+  "version": "0.0.0",
+  "description": "WildSwimQuality",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 80"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/simonredding/WildSwimQuality.git"
+  },
+  "devDependencies": {
+    "http-server": "^0.6.1"
+  },
+  "author": "Simon Redding",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simonredding/WildSwimQuality/issues"
+  },
+  "homepage": "https://github.com/simonredding/WildSwimQuality"
+}
