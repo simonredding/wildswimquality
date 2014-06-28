@@ -1,0 +1,1294 @@
+{
+    "type": "FeatureCollection",
+    "features": [{
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.29544290935894", "51.7911836311099"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "Accessed via a path from the A40 just over the railway bridge and down a...",
+            "details": "/dukes-lake",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.6908", "51.6921"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "From Lechlade to Pangbourne the Thames is deep and wide and surrounded b...",
+            "details": "/river-thames-nr-lechlade",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.69699338681642", "51.691681581369"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Get in at Lechlade and swim down with the current to the Trout Inn and h...",
+            "details": "/lechlade-thames",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.67776731259767", "51.6889147931456"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Get in at Lechlade and swim down with the current to the Trout Inn and h...",
+            "details": "/lechlade-thames",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.712816", "51.62925"]
+        },
+        "properties": {
+            "type": "Lido",
+            "description": "Freshwater heated pool with a sliding roof, 25m x 10m, part of large spo...",
+            "details": "/highworth-recreation-centre",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.900278091430664", "51.5374736827524"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.90012788772583", "51.5405967101529"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.889463424682617", "51.557329282607"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.884871482849121", "51.561224660189"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.878520011901855", "51.5621851129726"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.873627662658691", "51.5609045047532"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.871567726135254", "51.559143609567"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.871739387512207", "51.5580763671796"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.868220329284668", "51.5561552677701"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.864272117614746", "51.5523661949898"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.863757133483887", "51.5500178787973"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.861525535583496", "51.548470058665"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.858006477355957", "51.5488436752424"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.855860710144043", "51.548736927962"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.847535133361817", "51.5453208827401"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.84221363067627", "51.544840480811"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.839381217956543", "51.5461749180905"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.837492942810059", "51.5471356886988"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.835518836975098", "51.5466553059306"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.83345890045166", "51.5453742604191"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.83071231842041", "51.545747902419"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.829081535339355", "51.5455343930805"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.827193260192871", "51.5475093162341"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.824790000915527", "51.5503381108707"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.817580223083496", "51.5508718259839"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.811657905578613", "51.5523128255135"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.808138847351074", "51.5528465174593"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.803847312927246", "51.5522060863729"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.797667503356934", "51.5515122758546"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.794234275817871", "51.5512987935662"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.790543556213379", "51.553006623822"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.786595344543457", "51.5539672501647"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.782303810119629", "51.5564754566401"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.779557228088379", "51.5602641871198"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.777239799499512", "51.5649596403993"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.774664878845215", "51.5670404248718"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.773119926452637", "51.5672538332797"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "THE BRIDGE TO BRIDGE is a 14 km endurance downstream River Thames swimmi...",
+            "details": "/henley-bridge-to-bridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.881338119506836", "51.5246412188271"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "A few small beach-like, easy access swimming spots",
+            "details": "/sandy-spots",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.91376", "51.47582"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "There\'s a grassed area for picnics, and limited parking at the top of th...",
+            "details": "/river-thames-nr-sonning",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-0.917884569311468", "51.4767183772008"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Riverside managed by parish council with small slipway giving access to ...",
+            "details": "/furleigh-sonning-eye",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.04889", "51.49103"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Here is a sandy spot where I taught my dog to swim from as she sank at P...",
+            "details": "/river-thames-nr-mapleduhram",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.279316", "51.67014"]
+        },
+        "properties": {
+            "type": "Lido",
+            "description": "Heated outdoor pool which has received recent investment and reopened in...",
+            "details": "/abbey-meadow-outdoor-pool",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.084133", "51.486758"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "Do take someone with you to swim in this lake, as it is large and is als...",
+            "details": "/draycote-water",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.07962", "51.48718"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Pangbourne meadows is a wide open expanse on the banks of the Thames, in...",
+            "details": "/river-thames-nr-pangbourne",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.21091", "51.65487"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "",
+            "details": "/river-windrush-nr-asthall",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.20865038181148", "51.6555325093229"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Lovely spot to swim in the Thames below the bridge across the river from...",
+            "details": "/clifton-hampden",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.16486883256584", "51.6549843252479"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "Queenford Lakes are beautiful, clean and friendly. They are open for ope...",
+            "details": "/queenford-lakes",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.15923", "51.63605"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "This was the stretch of water that started it all for me.\\n\\nThe Thames at...",
+            "details": "/river-thames-nr-dorchester-on-thames",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.13428831100464", "51.5651130348136"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "From Wallingfordtravel south on the A329 as far as Cholsey. Turn left in...",
+            "details": "/cholsey-ferry-lane",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.13357", "51.56453"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "The River Thames by South Stoke is one of the prettiest entrances to a r...",
+            "details": "/river-thames-little-stoke",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.13363", "51.56469"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "While the Windrush is not a big river by any stretch of the imagination,...",
+            "details": "/river-windrush-at-burford",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.11981", "51.60023"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "There is a river beach by the bridge over the Thames in Wallingford.  Th...",
+            "details": "/river-thames-nr-wallingford",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.116206", "51.60008"]
+        },
+        "properties": {
+            "type": "Lido",
+            "description": "20m x 10m freshwater heated pool.\\r\\n\\r\\nTel: 01491 835 232\\r\\n\\r\\n",
+            "details": "/riverside-park-and-pools",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.37178", "51.73518"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "",
+            "details": "/river-thames-at-babylock-hythe",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.37174606323242", "51.7350570219815"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "",
+            "details": "/bablock-hythe-the-thames",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.36603796356201", "51.7583289923444"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Normally a lazy stretch of the Upper Thames. Easy access from a path bet...",
+            "details": "/the-thames-at-farmoor",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.35543823242188", "51.8459593366634"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "",
+            "details": "/british-gas-swimbritain-open-water-challenge-at-blenheim-palace",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.341418", "51.84883"]
+        },
+        "properties": {
+            "type": "Lido",
+            "description": "Freshwater, heated (to 29�C) pool, 25m x 8.5m, with a diving board and t...",
+            "details": "/woodstock-outdoor-pool",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.23883724212646", "51.7186673009151"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "",
+            "details": "/rose-island",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.256336", "51.73917"]
+        },
+        "properties": {
+            "type": "Lido",
+            "description": "Built in 1934 using the old filter beds of the former Oxford waterworks,...",
+            "details": "/hinksey-pools",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.25065505504608", "51.7660222783651"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Just right for an early morning dip, and afternoon laze or an evening re...",
+            "details": "/cherwell-dip",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.26806", "51.82867"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Lazy country river float, I swam in early summer as floods were receding...",
+            "details": "/river-cherwell-nr-kidlington",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.30520546310436", "51.7832986327261"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "A shallow section to walk into, gently sloping down. A good spot to swim...",
+            "details": "/thames-near-wolvercote",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.28643", "51.77294"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Walk from town across Port Meadow, with it\'s roaming ponies, grazing cow...",
+            "details": "/river-thames-at-port-meadow",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.29593074321747", "51.7812928972293"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Enjoy Wild Swimming at one of the best locations in the country. Free pa...",
+            "details": "/port-meadow-oxford",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.69097166137692", "51.6918339724789"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "Lovely longish swim with the current down to Kelmscott.  Sometimes wide ...",
+            "details": "/lechlade-long-swim",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.67818288879391", "51.6894928628718"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "Lovely longish swim with the current down to Kelmscott.  Sometimes wide ...",
+            "details": "/lechlade-long-swim",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.67264680938717", "51.6823889824607"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "Lovely longish swim with the current down to Kelmscott.  Sometimes wide ...",
+            "details": "/lechlade-long-swim",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.65333490447995", "51.6814310706066"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "Lovely longish swim with the current down to Kelmscott.  Sometimes wide ...",
+            "details": "/lechlade-long-swim",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.63513879852292", "51.6877103459588"]
+        },
+        "properties": {
+            "type": "Lake",
+            "description": "Lovely longish swim with the current down to Kelmscott.  Sometimes wide ...",
+            "details": "/lechlade-long-swim",
+            "warnings": {
+                "present": true,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.35164970484618", "52.0620917093709"]
+        },
+        "properties": {
+            "type": "Lido",
+            "description": "50m open-air heated pool at Woodgreen Leisure Centre in Banbury. Opening...",
+            "details": "/woodgreen-lido",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.54191", "51.93975"]
+        },
+        "properties": {
+            "type": "Lido",
+            "description": "This sheltered, freshwater heated lido was a community project award win...",
+            "details": "/chipping-norton-lido",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.41627", "51.70997"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "",
+            "details": "/river-thames-clifton-hampden",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.41745", "51.71004"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "A relatively busy road crosses a very busy part of the Thames at Newbrid...",
+            "details": "/river-thames-nr-newbridge",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.4641", "51.70703"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "This stretch of the Thames to New Bridge is one of the most prettiest pa...",
+            "details": "/river-thames-chimney-meadows",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.46631257171634", "51.698610665234"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "",
+            "details": "/duxfird-ford_1",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.46631257171634", "51.698610665234"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "",
+            "details": "/duxfird-ford",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.52646807244309", "51.7993334660498"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Lovely weir pool just by a bridge with handy rocks to enter water. Water...",
+            "details": "/river-windrush-weir-pool",
+            "warnings": {
+                "present": true,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.60855", "51.80301"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "",
+            "details": "/river-windrush-nr-widford",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.61021522715453", "51.6909630166194"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "This is a beaultiful seclude stretch of the Thames betweem Letchlade and...",
+            "details": "/grafton-lock",
+            "warnings": {
+                "present": false,
+                "text": false
+            }
+        }
+    }, {
+        "type": "Feature",
+        "geometry": {
+            "type": "Point",
+            "coordinates": ["-1.67671322822571", "51.6838942717261"]
+        },
+        "properties": {
+            "type": "River",
+            "description": "Upstream from Buscot, with good parking area. Nice and deep.",
+            "details": "/cheese-wharf-river-thames",
+            "warnings": {
+                "present": false,
+                "text": true
+            }
+        }
+    }]
+}
